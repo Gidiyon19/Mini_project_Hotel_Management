@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "fullName": "Ajai",
+      "address": "12 Beasant Nagar,Chennai",
+      "phoneNumber": "9812345432",
+      "email": "ajai@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Gidiyon",
+      "address": "19 Church Street,Thanjavur",
+      "phoneNumber": "9597218825",
+      "email": "gidiyon"
+    }
+  ]

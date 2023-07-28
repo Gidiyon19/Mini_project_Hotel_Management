@@ -1,0 +1,149 @@
+.login-page11 {
+    display: flex;
+    height: 100vh;
+    
+  }
+  
+  .login1-page11 {
+    background-image: "";
+    display: flex;
+    width:50px;
+    justify-content: center;
+    align-items: center;    
+    padding-left: 700px;
+    /* height: 100vh; */
+    /* background-color: white; */
+  }
+  .front{
+    background-color: #0056b3;
+  }
+  .login-container11 {
+    
+    background: rgba(236, 218, 218, 0.32);
+    /* box-shadow: 0 8px 32px 0 rgba(245, 13, 91, 0.37); */
+    backdrop-filter: blur(15px);
+    border-radius: 30px;
+    padding: 30px;
+    height:595px;
+    width: 360px;
+    /* border: 5px solid rgb(12, 12, 12); */
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .ab11{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: -25px;
+  }
+
+  .a11{
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 50px;
+    /* font-weight: 500; */
+  }
+
+  .ad11{
+    text-align: center;
+    margin-top: -2px;
+    margin-left: -80px;
+    padding-left: 67px;
+    font-weight: 500;
+  }
+  
+  .logininput11 {
+    display: block;
+    width: 70%;
+    padding: 8px;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-bottom: 25px ;
+    border: 2px solid #4b45457e;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+  
+
+  .but11 {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    font-size: 15px;
+    width:80px;
+    height: 33px;
+    cursor: pointer;
+    font-weight:600;
+  }
+  
+  .but11:hover {
+    background-color: #0056b3;
+  }
+
+
+
+  .create11{
+    margin-top: -43px;
+    margin-left: 78px;
+    text-align: center;
+  }
+
+  .btn-11{
+    background-color: #007bff;
+    color: #fff ;
+    border: 1px solid black;
+    font-size: 17px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    font-weight:bold ;
+    padding: 8px;
+    width: 80px;
+    border-radius: 3px;
+  }
+
+  .btn-11:hover{
+    background-color: #0056b3;
+  }
+
+  .btn-2{
+    background-color: rgb(17, 2, 2);
+    border: 1px solid black;
+    font-size: 17px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    font-weight:bold ;
+    padding: 8px;
+    width: 70px;
+    border-radius: 3px;
+  }
+
+  .btn-2:hover{
+    background-color: rgba(128, 128, 128, 0.792);
+  }
+
+
+  .logo11{
+
+    background-image: url("C:\Users\hp\minipro\src\Picsart_23-07-11_15-03-59-817.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size:contain;
+    /* height:100px; */
+    width:50px;
+    padding-left:400px;
+    background-color: #0056b3;
+
+  }
+  
+  a:link,a:visited{
+    color:white;
+    text-decoration: none;
+  }
+
+  .google{
+    width: 65%;
+    margin-top: 29px;
+  }

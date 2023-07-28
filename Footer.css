@@ -1,0 +1,23 @@
+.vertical{
+    border-left:2px solid white ;
+    height: 80px;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-left: 30%;
+}
+.payment{
+    background-image: url("C:\Users\hp\Downloads\Picsart_23-07-12_15-11-19-812.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+
+}
+.gaja{
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-top: -7px;
+    margin-left: -30%;
+   
+}
